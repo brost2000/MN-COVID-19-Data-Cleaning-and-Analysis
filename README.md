@@ -13,3 +13,11 @@ The COVID-19 pandemic was a significant time period in world history. It saw the
 The [Minnesota Department of Health](https://www.health.state.mn.us/diseases/respiratory/stats/vaccine.html) publishes a number of useful datasets which track respiratory illness by hospitalization over time, vaccination rates over time, and vaccination rates by county. They also provide clear [guidelines and recommendations](https://www.health.state.mn.us/diseases/coronavirus/stats/vbt.html) for vaccination against repiratory illnesses. They note that:
 
 >People who have completed at least a primary series are less likely to be hospitalized or die than people with similar risk factors who are not vaccinated. People who have received their bivalent booster have an even lower risk of hospitalization or death than people with similar risk factors who have only received monovalent doses of vaccine or people who are not vaccinated.
+
+This project takes pre-existing data and connects it together to draw conclusions about the ongoing state of Minnesota public health in regard to respiratory illness. Especially noteable is the treatment of vaccination as a public health issue. On this topic, the [European Commission of Public Health](https://health.ec.europa.eu/vaccination/overview_en) notes that: 
+
+>Vaccination is the main tool for primary prevention of disease and one of the most cost-effective public health measures available.
+
+This marks vaccination primarily as a 'public health' issue, not as an issue of personal autonomy. The intersection of these competing philosophies of immunization is the concept of vaccine hesitancy. The [European Center for Disease Prevention and Control](https://www.ecdc.europa.eu/en/immunisation-vaccines/vaccine-hesitancy) describes vaccine hesitancy as:
+
+>Vaccine hesitancy refers to delay in acceptance or refusal of vaccines despite availability of vaccination services.
