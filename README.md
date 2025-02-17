@@ -9,3 +9,7 @@ This project analyzes data obtained from the Minnesota Department of Health in o
 The COVID-19 pandemic was a significant time period in world history. It saw the development of a number of different vaccination options with unprecedented speed. A study from the [NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC7889064/) notes that: 
 
 >While typical vaccine development can take upwards of 10–15 years, COVID-19 vaccines were developed in less than a year after the identification of COVID-19. 
+
+The [Minnesota Department of Health](https://www.health.state.mn.us/diseases/respiratory/stats/vaccine.html) publishes a number of useful datasets which track respiratory illness by hospitalization over time, vaccination rates over time, and vaccination rates by county. They also provide clear [guidelines and recommendations](https://www.health.state.mn.us/diseases/coronavirus/stats/vbt.html) for vaccination against repiratory illnesses. They note that:
+
+>People who have completed at least a primary series are less likely to be hospitalized or die than people with similar risk factors who are not vaccinated. People who have received their bivalent booster have an even lower risk of hospitalization or death than people with similar risk factors who have only received monovalent doses of vaccine or people who are not vaccinated.
